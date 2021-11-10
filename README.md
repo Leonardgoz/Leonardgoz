@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Leonardgoz
+- 👋 Hi, I’m @Leonardo
 - 👀 I’m interested in develop in Odoo
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and github
 - 💞️ I’m looking to collaborate on projects and personal projects
 - 📫 How to reach me @leonardgoz
 
